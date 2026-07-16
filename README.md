@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# Projeto_Avaliativo_M-dulo_1
-=======
 # Projeto_Avaliativo_M-dulo_1
 
-Projeto de PipeLine para análise prpeditiva
+Projeto de PipeLine para análise preditiva
 5 fases
-
->>>>>>> fase-1-eda
