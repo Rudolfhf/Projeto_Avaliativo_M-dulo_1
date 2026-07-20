@@ -1,9 +1,17 @@
-# Projeto Avaliativo - Módulo 1: Pipeline Preditivo de Risco de Crédito
+# Projeto Avaliativo de Machine Learning - Módulo 1: Pipeline Preditivo de Risco de Crédito
  
  **Aluno:** Rudolf Hoffmann<br>
  **Professor:** Junior Prado<br>
  **Curso:** Machine Learning e Visão Computacional - Programa (SCTEC)
 
+## Informações
+- **Bibliotecas do projeto:**
+  - Python
+  - Pandas
+  - Numpy
+  - Matplotlib
+  - Seaborn
+  - Sklearn
 
 ## 1. Descrição do Problema de Negócio
 
@@ -15,9 +23,14 @@ gerando custo de oportunidade ao rejeitar um cliente que pagaria.
 - **Falso Negativo**: classificar um mau pagador como "Seguro", gerando 
 perda financeira direta ao emprestar para quem não pagará.
 
-Este projeto constrói um pipeline preditivo completo, desde a limpeza dos dados 
-até a modelagem com KNN e Árvore de Decisão, culminando em uma recomendação de 
-negócio sobre qual modelo colocar em produção.
+**Este projeto constrói um pipeline preditivo completo, desde a limpeza dos dados até a modelagem com KNN e Árvore de Decisão, culminando em uma recomendação de negócio sobre qual modelo colocar em produção.:**
+- Análise Exploratório dos Dados, tratamento e limpeza dos dados
+- Feature Enginering
+- Encoding
+- Balençeamento das classes
+- Treinamento do modelo
+- Avaliação e escolha do melhor modelo
+
 
 ## 2. Dicionário de Dados
 
