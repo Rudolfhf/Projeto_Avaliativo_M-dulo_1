@@ -1,8 +1,8 @@
 # Projeto Avaliativo - Módulo 1: Pipeline Preditivo de Risco de Crédito
- |---|---|
- | Aluno: | Rudolf Hoffmann |
- | Professor: | Junior Prado |
- | Curso: | Machine Learning e Visão Computacional |
+ 
+ **Aluno:** Rudolf Hoffmann 
+ **Professor:** Junior Prado 
+ **Curso:** Machine Learning e Visão Computacional - Programa (SCTEC)
 
 
 ## 1. Descrição do Problema de Negócio
@@ -40,13 +40,14 @@ negócio sobre qual modelo colocar em produção.
 ## 3. Instalação e Dependências
 
 1. Clone o repositório:
-git clone <url-do-repositorio>
+git clone "https://github.com/Rudolfhf/Projeto_Avaliativo_M-dulo_1.git"
 2. Crie e ative um ambiente virtual:
 python -m venv venv
 venv\Scripts\activate   # Windows
 3. Instale as dependências:
 pip install -r requirements.txt
 4. Abra o notebook `main.ipynb` no VS Code ou Jupyter.
+5. Dataset incluso: credit_risk_dataset.csv
 
 ## 4. Resumo Executivo
 
