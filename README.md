@@ -1,7 +1,7 @@
 # Projeto Avaliativo - Módulo 1: Pipeline Preditivo de Risco de Crédito
  
- **Aluno:** Rudolf Hoffmann 
- **Professor:** Junior Prado 
+ **Aluno:** Rudolf Hoffmann<br>
+ **Professor:** Junior Prado<br>
  **Curso:** Machine Learning e Visão Computacional - Programa (SCTEC)
 
 
